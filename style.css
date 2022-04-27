@@ -1,0 +1,115 @@
+*{
+    box-sizing: border-box;
+    margin: 0px;
+    padding: 0px;
+}
+img{
+    max-width: 100%;
+}
+.fs-s{
+    font-size: 13px;
+}
+
+.button{
+    background-image: linear-gradient(to right,#FF8A36,#FF5660); 
+    border-radius: 50px;
+    border: none;
+    padding: 6px;
+    color: white;
+    font-weight: bold;
+    font-size: 14px;
+}
+
+.banner{
+    background-color: rgb(110,41,120);
+    padding: 50px;
+}
+.form{
+    background-color: white;
+    border-radius: 10px;
+    padding: 20px;
+    margin-top: 20px;
+    text-align: center;
+}
+
+.connect-us-form input{
+    width: 100%;
+    padding: 8px;
+    margin-bottom: 30px;
+    border-radius: 5px;
+    border: 1px solid rgba(128, 128, 128, 0.452);
+}
+.connect-us-form input[type=submit]{
+    background-image: linear-gradient(to right,#FF8A36,#FF5660); 
+    border: none;
+    color: white;
+    font-weight: bold;
+    font-size: large;
+}
+.teacher-adv{
+    background-color: #F7F0FF;
+    padding: 80px;
+}
+.button1{
+    background-image: linear-gradient(to right,#636CFF,#8943FF); 
+    border-radius: 50px;
+    border: none;
+    padding: 10px 20px;
+    color: white;
+    font-weight: bold;
+    font-size: 14px;
+}
+.button2{
+    background-image: linear-gradient(to right,#FF8A36,#FF5660); 
+    border-radius: 50px;
+    border: none;
+    padding: 10px 20px;
+    color: white;
+    font-weight: bold;
+    font-size: 14px;
+}
+.card1{
+    width: 250px;
+    height: 350px;
+    box-shadow: 1px 1px 10px lightgrey;
+    background-image: linear-gradient(to bottom, #fff4b5, #fffce4);
+    border-radius: 20px;
+    padding: 10px;
+    margin: auto;
+}
+.card2{
+    background-image: linear-gradient(to bottom, #eaddff, #ffd4ed);
+    width: 250px;
+    height: 350px;
+    box-shadow: 1px 1px 10px lightgrey;
+    border-radius: 20px;
+    padding: 10px;
+    margin: auto;
+}
+.card3{
+    background-image: linear-gradient(to top, #ffecdc, #ffcdc5);
+    width: 250px;
+    height: 350px;
+    box-shadow: 1px 1px 10px lightgrey;
+    border-radius: 20px;
+    padding: 10px;
+    margin: auto;
+}
+.card4{
+    background-image: linear-gradient(to top, #ffecdc, #ffcdc5);
+    width: 250px;
+    height: 350px;
+    box-shadow: 1px 1px 10px lightgrey;
+    border-radius: 20px;
+    padding: 10px;
+    margin: auto;
+}
+.card5{
+    background-image: linear-gradient(to top, #ffecdc, #ffcdc5);
+    width: 250px;
+    height: 350px;
+    box-shadow: 1px 1px 10px lightgrey;
+    border-radius: 20px;
+    padding: 10px;
+    margin: auto;
+}
